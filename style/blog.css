@@ -335,7 +335,7 @@ footer{
 .section-6{
     margin-bottom: 120px;
     width: 1320px;
-    height: 1300px;
+    height: 1200px;
     margin: auto;
     margin-top: 120px;
 }
@@ -360,16 +360,41 @@ footer{
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 32px; /* 160% */
+    width: 896px;
 }
+.bag-1{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+.bag-2{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+.juta{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+.juta-2{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+.chosma{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+.churi{
+    margin-bottom: 24px;
+    margin-right: 12px;
+}
+/* subscribe related style */
 .section-7{
     margin-bottom: 120px;
     width: 1320px;
-    height: 616px;
+    height: 416px;
     margin: auto;
     margin-top: 120px;
+    margin-bottom: 120px;
 }
 .subscribe{
     color: #070211;
@@ -381,14 +406,45 @@ footer{
     line-height: normal;
     text-transform: capitalize;
 }
-.lats-p{
+.last-p{
+  text-align: center;
     color: rgba(7, 2, 17, 0.60);
-    text-align: center;
     font-family: Inter;
     font-size: 20px;
     font-weight: 400;
+    width: 920px;
     margin: auto;
 }
+
 .box{
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+.subscribe{
+    margin-bottom: 22px;
+}
+.last{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.email{
+    text-align: center;
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    margin: auto;
+}
+.button-2{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    padding-top: 0;
+}
+.user{
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
 }
