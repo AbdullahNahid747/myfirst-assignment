@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
 } */
+/* Header related style */
+
 .banner{
     width: 1320px;
     height: 600px;
@@ -72,6 +74,9 @@
     width: 802px;
     /* margin: auto; */
 }
+
+/* Section-2 related style */
+
 .section-2{
     margin-bottom: 100px;
 }
@@ -107,6 +112,7 @@
     font-weight: 400;
     margin-bottom: 48px;
     margin-top: 0px;
+    width: 100%;
 }
 .button-1{
     color: #FFF;
@@ -119,6 +125,9 @@
     border: none;
     text-transform: uppercase;
 }
+
+/* section-3 relted style */
+
 .section-3{
     width: 1320px;
     height: 484px;
@@ -183,7 +192,7 @@
 .new{
     color: #F00;
     /* text-align: center; */
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin: auto;
@@ -199,7 +208,7 @@
 }
 .p-3{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -207,25 +216,31 @@
     width: 393px;
 }
 .mmmmm{
-    text-align: center;
+    /* text-align: center;
     width: 364.844px;
     height: 364.844px;
     flex-shrink: 0;
-    border-radius: 364.844px;
+    border-radius: 364.844px; */
 }
 .kham-year{
+    margin-top: 0;
+    margin-bottom: 0;
     margin: ;
     width: 500px;
     height: 463px;
     flex-shrink: 0;
 }
 .mmmmm{
+    margin: 50px auto;
+    padding: 40px;
+    width: 240px;
+    height: 240px;
     border-radius: 463px;
     border: 15px solid #F00;
 }
 .new-2024{
     color: #F00;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 0;
@@ -233,7 +248,7 @@
 .p-4{
     width: 276px;
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
     margin-top: 16px;
@@ -246,6 +261,8 @@
     margin-top: 43px;
 }
 
+/* section-5 relted style */
+
 .section-5{
     text-align: center;
     margin-bottom: 120px;
@@ -255,14 +272,14 @@
 .WHAT{}
 .fun{
     color: #070211;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
 }
 .holiday{
     color: #F00;
     text-align: center;
-    font-family: Merriweather;
+    font-family: 'Morriweather', sans-serif;
     font-size: 72px;
     font-style: normal;
     font-weight: 900;
@@ -271,7 +288,7 @@
 }
 .holi{
     color: #070211;
-    font-family: Merriweather;
+    font-family: 'Morriweather', sans-serif;
     font-size: 72px;
     font-style: normal;
     font-weight: 900;
@@ -279,24 +296,38 @@
     margin-bottom: 16px;
 }
 .pp{
+    margin: auto;
+    width: 60%;
 }
 .lal{
 }
 .alll{
+    /* background-image: url('../resources/Rectangle\ 1.png'); */
+    position: relative;
+    background-repeat: no-repeat;
     display: flex;
     width: 1320px;
-    /* height: 7335px; */
-    margin-bottom: 120PX;
+    height: 535px;
     margin: auto;
+}
+.ful{
+    margin-top: 60px;
+    margin-bottom: 0px;
 }
 .chobi-1{}
 .chobi-2{
-     width: 429px;
-    height: 433px;
+    margin-top: 102px;
+    margin-bottom: 0;
+    margin-left: ;
 }
 .chobi-3{
     width: 206.841px;
     height: 206.841px;
+
+}
+.percent{
+    margin-top: 100px;
+    margin-bottom: 0px;
 }
 .chobi{
     text-align: center;
@@ -313,7 +344,7 @@
 }
 .the-1{
     color: #F00;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -321,7 +352,7 @@
 }
 .the-2{
     color: #070211;
-    font-family: Merriweather;
+    font-family: 'Morriweather', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 900;
@@ -330,7 +361,7 @@
 }
 .m-1{
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
     width: 896px;
@@ -359,6 +390,9 @@
     margin-bottom: 24px;
     margin-right: 12px;
 }
+
+/* section-7 relted style */
+
 /* subscribe related style */
 .section-7{
     margin-bottom: 120px;
@@ -371,7 +405,7 @@
 .subscribe{
     color: #070211;
     text-align: center;
-    font-family: Merriweather;
+    font-family: 'Morriweather', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 900;
@@ -407,6 +441,8 @@
     width: 648px;
     height: 72px;
     margin: auto;
+    margin-top: 50px;
+    margin-bottom: 0;
 }
 .button-2{
     border-radius: 0px 50px 50px 0px;
@@ -415,13 +451,14 @@
 }
 .user{
     color: rgba(7, 2, 17, 0.30);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     border: none;
 }
 
 /* footer relatd style */
+
 footer{
     width: 1320px;
     height: 609px;
@@ -431,25 +468,28 @@ footer{
 }
 .footer-cloume{
     display: flex;
-    padding: 120px 00px 0px 50px;
+   margin: 120px 00px 0px 50px;
 
 }
 .footer-title-3{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     width: 32%;
+    margin-top: 100px;
+    margin-bottom: 0;
     /* margin: auto; */
     
 }
 .footer-title{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin-right: 0px;
     margin-left: 400px;
+    margin-top: 100px;
 }
 .social-links{
     text-align: center;
@@ -462,7 +502,7 @@ footer{
 }
 .all-right-1{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500px;
     margin-bottom: 120px;
@@ -470,15 +510,11 @@ footer{
 }
 .unsubcribe-1{
     color: #FFF;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin-right: 0;
     margin-left: 730px;
     margin-bottom: 120px;
     margin-top: 0;
-}
-.fuck{
-    margin: 0px 40px 0px 40px;
-
 }
