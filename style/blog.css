@@ -214,9 +214,12 @@
     border-radius: 364.844px;
 }
 .kham-year{
-    width: 463px;
+    margin: ;
+    width: 500px;
     height: 463px;
     flex-shrink: 0;
+}
+.mmmmm{
     border-radius: 463px;
     border: 15px solid #F00;
 }
@@ -419,16 +422,63 @@
 }
 
 /* footer relatd style */
-.footer-1{
+footer{
     width: 1320px;
-    height: 419px;
-}
-.footer-1{
-    margin-bottom: 120px;
-    width: 1320px;
-    height: 416px;
+    height: 609px;
     margin: auto;
+    background: #070211;
+    
 }
 .footer-cloume{
     display: flex;
+    padding: 120px 00px 0px 50px;
+
+}
+.footer-title-3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    width: 32%;
+    /* margin: auto; */
+    
+}
+.footer-title{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 0px;
+    margin-left: 400px;
+}
+.social-links{
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
+.last-footer{
+    display: flex;
+    padding: 50px;
+}
+.all-right-1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500px;
+    margin-bottom: 120px;
+    margin-top: 0;
+}
+.unsubcribe-1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-right: 0;
+    margin-left: 730px;
+    margin-bottom: 120px;
+    margin-top: 0;
+}
+.fuck{
+    margin: 0px 40px 0px 40px;
+
 }
